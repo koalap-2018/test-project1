@@ -1,3 +1,5 @@
+#here we import all the libraries needed for the code below 
+
 import datetime
 import pandas as pd
 import numpy as np
